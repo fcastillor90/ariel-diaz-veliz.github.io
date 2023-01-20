@@ -1,0 +1,63 @@
+body {
+    background-color: grey;
+    width: 1000px;
+    margin: auto;
+ }
+h1 { 
+    font-size: 4rem;
+    color: black;
+    /* border: 5px solid green;     */
+    padding-left: 4rem;
+    width: auto;
+    font-family: fantasy;
+}
+.fotoportada {
+    background-image: url(/assets/img/heder.jpg);
+    height: 30em;
+    width: auto;
+    border:5px solid black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+.table-main{
+    width: 1000px;
+    margin-top: 1rem;
+}
+
+.table-main td{
+    width: 30rem;
+    padding-top: 1rem;
+}
+
+.img-menu{
+    width: 30rem;
+    height: 20rem;
+
+}
+
+h2{
+    padding-left: 1rem;
+    font-size: 2rem;
+}
+
+.p-info{
+    padding-left: 1rem;
+    font-size: 2rem;
+}
+
+.footer{
+    font-size: 2rem;
+    text-align: center;
+    background-color: rgb(182, 31, 31);
+    color: antiquewhite;
+    padding: 1rem;
+}
+ li {
+    padding-left: 1rem;
+    font-size: 2rem;
+ }
+
+    
